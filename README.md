@@ -4,7 +4,7 @@ I am an enthusiastic JavaScript developer with knowing some framework for the fr
 
 I am currently studying in the 3rd year of Computer Science and Engineering at Chittagong University. 
 
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://linkedin.com/in/rokydas"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 [My Linked In profile](https://www.linkedin.com/in/rokydas)
 
