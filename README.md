@@ -4,8 +4,6 @@ I am an enthusiastic JavaScript developer with knowing some framework for the fr
 
 I am currently studying in the 3rd year of Computer Science and Engineering at Chittagong University. 
 
-<a href="https://linkedin.com/in/rokydas"><img src="https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>  <a href="https://github.com/rokydas"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>  <a href="https://twitter.com/rokydas136"><img src="https://img.shields.io/badge/Add Me-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
-
-<img src="https://img.shields.io/badge/mail me-D14836?&style=for-the-badge&logo=gmail&logoColor=white">droky136@gmail.com</img>
-
 My Email: droky136@gmail.com
+
+<a href="https://linkedin.com/in/rokydas"><img src="https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>     <a href="https://github.com/rokydas"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>     <a href="https://twitter.com/rokydas136"><img src="https://img.shields.io/badge/Add Me-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
