@@ -10,4 +10,6 @@ I am currently studying in the 3rd year of Computer Science and Engineering at C
 
 <a href="https://twitter.com/rokydas136"><img src="https://img.shields.io/badge/Add Me-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 
+<a href="droky136@gmail.com"><img src="	https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 My Email: droky136@gmail.com
