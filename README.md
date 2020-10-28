@@ -1,22 +1,11 @@
-# rokydas
-Hello, I am Roky Das. I am currently studying in the 3rd year in Computer Science at Chittagong University. I am now learning web development with Jhankar Vhai.
+### Hello, I am Roky Das
 
-My Linked In profile
+I am currently studying in the 3rd year in Computer Science at Chittagong University. I am now learning web development with Jhankar Vhai.
 
-My Facebook profile
+[My Linked In profile](https://www.linkedin.com/in/rokydas)
 
-My github
+[My Github](https://github.com/rokydas)
+
+[My Resume](https://drive.google.com/file/d/1W3WQSkJQpsYncoJDmm7CMSJhEFaZvRPU/view)
 
 My Email: droky136@gmail.com
-
-I have tried to make these websites:
-
-Volunteer Network
-Travel Guru
-Red Onion Restaurant
-Fake Facebook Post
-Sabitri Asrom
-Emoji List
-Kocur Chara
-E-School
-Hot Gadget
