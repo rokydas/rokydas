@@ -1,4 +1,4 @@
-## Hello, I am Roky Das
+## Hello, I am Roky Das 😊
 
 I am an enthusiastic JavaScript developer with knowing some framework for the frontend and the backend. I know Basic PHP and MySQL but basically a MERN developer. I always focus on learning new technology. 
 
