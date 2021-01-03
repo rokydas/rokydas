@@ -1,7 +1,7 @@
 # Hello, I am Roky Das 😊
 ### Web Developer at Programming Hero
 
-I am a front-end developer. I am now currently studying in the third year in Computer Science & Engineering at the University of Chittagong. I know HTML5, CSS3, Bootstrap4, JavaScript (ES6), React.js, Node.js, Express.js, MySql, MongoDB, PHP. 
+I am a MERN stack developer. I am now currently studying in the third year in Computer Science & Engineering at the University of Chittagong. I know HTML5, CSS3, Bootstrap4, JavaScript (ES6), React.js, Node.js, Express.js, MySql, MongoDB, PHP. 
 
 I am an expert in React.js. I have experience working with Node.js, MySql, and MongoDB for my full stack projects. I can clone a web page as like as provided design using react. I can make backend API and can integrate them with the front-end. Moreover, I am a quick learner. So, I am able to learn anything perfectly in a short time. 
 
