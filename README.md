@@ -14,4 +14,6 @@ My Email: droky136@gmail.com
 
 <img src="https://github-readme-stats.vercel.app/api?username=rokydas&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidkishore&card_width=550&show_icons=true&theme=radical)](https://github.com/nahidkishore)
+
 <a href="https://linkedin.com/in/rokydas"><img src="https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>     <a href="https://github.com/rokydas"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>     <a href="https://twitter.com/rokydas136"><img src="https://img.shields.io/badge/Add Me-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
