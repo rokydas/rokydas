@@ -5,7 +5,8 @@
 ### Third year student of CSE CU.
 ### Now learning FLUTTER.
 
-[My Resume](https://drive.google.com/file/d/1CgI-MBkWILCNSxn4MrJ_EQjRnhFz0sar/view)
+## [My Resume](https://drive.google.com/file/d/1CgI-MBkWILCNSxn4MrJ_EQjRnhFz0sar/view)
+## [My Youtube Channel](https://www.youtube.com/channel/UC9EjQgVzxa-Uw_HdYgt-BuQ)
 
 <img src="https://github-readme-stats.vercel.app/api?username=rokydas&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
