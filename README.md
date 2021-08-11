@@ -1,9 +1,9 @@
 # Hello, I am Roky Das 😊
 ## Web Developer at Programming Hero
 
-### MERN stack web developer. 
-### Third year student of CSE CU.
-### Now learning FLUTTER.
+#### MERN stack web developer. 
+#### Third year student of CSE CU.
+#### Now learning Android Development with Kotlin.
 
 ## [My Resume](https://drive.google.com/file/d/1CgI-MBkWILCNSxn4MrJ_EQjRnhFz0sar/view)
 ## [My Youtube Channel](https://www.youtube.com/channel/UC9EjQgVzxa-Uw_HdYgt-BuQ)
