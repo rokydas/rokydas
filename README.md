@@ -1,4 +1,4 @@
-![image](https://drive.google.com/uc?export=view&id=1913oZeBZPBNiUuk8gu3ZSbLBA2l_VQtG)
+![image](https://drive.google.com/uc?export=view&id=1E34QV_xR_nX4QyaKuV-9cQS4CmmDHKpm)
 
 # Hello, I am Roky Das 😊
 ## Web Developer at Programming Hero
