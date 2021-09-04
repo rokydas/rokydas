@@ -11,11 +11,19 @@
 ## [My Youtube Channel](https://www.youtube.com/channel/UC9EjQgVzxa-Uw_HdYgt-BuQ)
 
 <div style="width: 100%;" align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=rokydas" alt="rokydas" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rokydas" alt="rokydas" />
 </div>
 
-<div style="width: 100%;" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rokydas&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <div style="width: 100%;" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=rokydas&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+      </div>
+      <div style="width: 100%;" align="center">
+        [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=rokydas&card_width=550&show_icons=true&theme=radical)](https://github.com/rokydas)
+      </div>
+    </td>
+  </tr>
+</table>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=rokydas&card_width=550&show_icons=true&theme=radical)](https://github.com/rokydas)
