@@ -20,9 +20,11 @@
       <div style="width: 100%;" align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=rokydas&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
       </div>
-      <div style="width: 100%;" align="center">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokydas&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
-      </div>
+      <td>
+        <div style="width: 100%;" align="center">
+          <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokydas&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
+        </div>
+      </td>
     </td>
   </tr>
 </table>
