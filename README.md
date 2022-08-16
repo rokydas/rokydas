@@ -1,11 +1,9 @@
 ![image](https://drive.google.com/uc?export=view&id=1E34QV_xR_nX4QyaKuV-9cQS4CmmDHKpm)
 
 # Hello, I am Roky Das 😊
-## Web Developer at Programming Hero
+## Mobile Application Developer at Programming Hero
 
-#### MERN stack web developer. 
-#### Third year student of CSE CU.
-#### Now learning Android Development with Kotlin.
+I am a self-thought programmer. My core skill is MERN stack, Android (Kotlin), and Flutter. I am a quick learner and a good debugger. I am always ready to learn and explore new technology.
 
 ## [My Resume](https://drive.google.com/file/d/1CgI-MBkWILCNSxn4MrJ_EQjRnhFz0sar/view)
 ## [My Youtube Channel](https://www.youtube.com/channel/UC9EjQgVzxa-Uw_HdYgt-BuQ)
